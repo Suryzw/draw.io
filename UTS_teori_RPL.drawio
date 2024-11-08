@@ -25,8 +25,11 @@
         <mxCell id="wqZgI4M5ixBPsBJ4GlHK-22" value="Melakukan pembayaran" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="wqZgI4M5ixBPsBJ4GlHK-1">
           <mxGeometry x="52.5" y="410" width="95" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="TeqybEX39JXzVOklJodw-4" value="Mendapat Bukti Pembayaran" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="wqZgI4M5ixBPsBJ4GlHK-1">
+          <mxGeometry x="10" y="590" width="137.5" height="65" as="geometry" />
+        </mxCell>
         <mxCell id="wqZgI4M5ixBPsBJ4GlHK-2" value="Kasir" style="swimlane;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="340" y="215" width="300" height="770" as="geometry" />
+          <mxGeometry x="340" y="215" width="340" height="770" as="geometry" />
         </mxCell>
         <mxCell id="wqZgI4M5ixBPsBJ4GlHK-9" value="Mengecek stok barang" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="wqZgI4M5ixBPsBJ4GlHK-2">
           <mxGeometry x="65" y="210" width="80" height="50" as="geometry" />
@@ -46,14 +49,22 @@
         <mxCell id="wqZgI4M5ixBPsBJ4GlHK-19" value="Menginfokan&amp;nbsp;&lt;div&gt;ke pelanggan&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="wqZgI4M5ixBPsBJ4GlHK-2">
           <mxGeometry x="58" y="410" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wqZgI4M5ixBPsBJ4GlHK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="wqZgI4M5ixBPsBJ4GlHK-2" source="wqZgI4M5ixBPsBJ4GlHK-25" target="wqZgI4M5ixBPsBJ4GlHK-27">
+        <mxCell id="wqZgI4M5ixBPsBJ4GlHK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="wqZgI4M5ixBPsBJ4GlHK-2" source="wqZgI4M5ixBPsBJ4GlHK-25" target="wqZgI4M5ixBPsBJ4GlHK-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="525" />
+              <mxPoint x="170" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TeqybEX39JXzVOklJodw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="wqZgI4M5ixBPsBJ4GlHK-2" source="wqZgI4M5ixBPsBJ4GlHK-25" target="TeqybEX39JXzVOklJodw-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqZgI4M5ixBPsBJ4GlHK-25" value="Menerima pembayaran" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="wqZgI4M5ixBPsBJ4GlHK-2">
           <mxGeometry x="65" y="500" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wqZgI4M5ixBPsBJ4GlHK-27" value="Membuat laporan transaksi, keuntungan, dan stok barang" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="wqZgI4M5ixBPsBJ4GlHK-2">
-          <mxGeometry x="48" y="590" width="115" height="100" as="geometry" />
+          <mxGeometry x="200" y="475" width="115" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wqZgI4M5ixBPsBJ4GlHK-34" value="Ya" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="wqZgI4M5ixBPsBJ4GlHK-2">
           <mxGeometry x="55" y="370" width="60" height="30" as="geometry" />
@@ -67,11 +78,14 @@
         <mxCell id="XhEECG2n9QOZzSU5Pdov-7" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="wqZgI4M5ixBPsBJ4GlHK-2">
           <mxGeometry x="140" y="300" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TeqybEX39JXzVOklJodw-2" value="Membuat Bukti Pembyaran" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="wqZgI4M5ixBPsBJ4GlHK-2">
+          <mxGeometry x="65.5" y="600" width="80" height="55" as="geometry" />
+        </mxCell>
         <mxCell id="wqZgI4M5ixBPsBJ4GlHK-3" value="Pak Wanto" style="swimlane;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="640" y="215" width="260" height="770" as="geometry" />
+          <mxGeometry x="680" y="215" width="220" height="770" as="geometry" />
         </mxCell>
         <mxCell id="wqZgI4M5ixBPsBJ4GlHK-31" value="Menerima Laporan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="wqZgI4M5ixBPsBJ4GlHK-3">
-          <mxGeometry x="52.5" y="615" width="95" height="50" as="geometry" />
+          <mxGeometry x="52.5" y="670" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XhEECG2n9QOZzSU5Pdov-3" value="Menambah stok barang" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="wqZgI4M5ixBPsBJ4GlHK-3">
           <mxGeometry x="90" y="310" width="80" height="50" as="geometry" />
@@ -111,6 +125,14 @@
             <Array as="points">
               <mxPoint x="770" y="360" />
               <mxPoint x="445" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TeqybEX39JXzVOklJodw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="TeqybEX39JXzVOklJodw-2" target="TeqybEX39JXzVOklJodw-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="346" y="843" />
+              <mxPoint x="346" y="837" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -226,7 +248,7 @@
         <mxCell id="VZ5mgPB-J-o0ETsVv0lf-9" value="1.1 melakukan pembayaran" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="100" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VZ5mgPB-J-o0ETsVv0lf-10" value="1.2 menerima pembayaran" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="VZ5mgPB-J-o0ETsVv0lf-10" value="1.2 menerima bukti&amp;nbsp; pembayaran" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="100" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VZ5mgPB-J-o0ETsVv0lf-11" value="1.3 Pencatatan setiap transaksi" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
@@ -260,7 +282,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-1sO46l-qJ9sWHVZ61Uh" name="DFD">
-    <mxGraphModel dx="1013" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -427,6 +449,115 @@
         </mxCell>
         <mxCell id="1QG1QGUIgNOGkm4THpmc-22" value="Menerima Bukti Transaksi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="620" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-24" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Diagram Rinci&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1240" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmqOgGlhquebr7f5YNxd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="1QG1QGUIgNOGkm4THpmc-25" target="1QG1QGUIgNOGkm4THpmc-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-25" value="1.1 Melakukan pembayaran&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Ambil%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontFamily%3DArchitects%20Daughter%3BfontSource%3Dhttps%253A%252F%252Ffonts.googleapis.com%252Fcss%253Ffamily%253DArchitects%252BDaughter%3Brotation%3D-60%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22435%22%20y%3D%22780%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-26" value="Data_Stok barang" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="380" y="720" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-28" value="Data_Transaksi" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="325" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-29" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.138;entryY=1.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1QG1QGUIgNOGkm4THpmc-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="730" as="sourcePoint" />
+            <mxPoint x="370" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-30" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=1.042;entryY=0.431;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.425;exitY=0.941;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1QG1QGUIgNOGkm4THpmc-28" target="85HUrMcU4eTP0CE8wIPe-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="740" as="sourcePoint" />
+            <mxPoint x="349" y="691" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-31" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.402;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="85HUrMcU4eTP0CE8wIPe-6" target="1QG1QGUIgNOGkm4THpmc-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="378" y="688" as="sourcePoint" />
+            <mxPoint x="333" y="744" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-32" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.707;entryY=0.09;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1QG1QGUIgNOGkm4THpmc-26" target="85HUrMcU4eTP0CE8wIPe-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443" y="770" as="sourcePoint" />
+            <mxPoint x="430" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-33" value="Ambil" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=-60;" vertex="1" parent="1">
+          <mxGeometry x="330" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-35" value="Simpan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=-60;" vertex="1" parent="1">
+          <mxGeometry x="280" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-37" value="Ambil" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=-60;" vertex="1" parent="1">
+          <mxGeometry x="435" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-38" value="Simpan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=-60;" vertex="1" parent="1">
+          <mxGeometry x="345" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PD8pyI2LtgPukJvuHbv3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="1QG1QGUIgNOGkm4THpmc-40" target="1QG1QGUIgNOGkm4THpmc-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-40" value="1.2 Menerima Bukti Pembayaran" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PD8pyI2LtgPukJvuHbv3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="1QG1QGUIgNOGkm4THpmc-41" target="1QG1QGUIgNOGkm4THpmc-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-41" value="1.3 Mencatat transaksi" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-42" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Diagram Rinci 1.0 Transaksi&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="1330" width="317.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PD8pyI2LtgPukJvuHbv3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="1QG1QGUIgNOGkm4THpmc-43" target="1QG1QGUIgNOGkm4THpmc-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PD8pyI2LtgPukJvuHbv3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="1QG1QGUIgNOGkm4THpmc-43" target="1QG1QGUIgNOGkm4THpmc-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-43" value="Kasir" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LmqOgGlhquebr7f5YNxd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="1QG1QGUIgNOGkm4THpmc-45" target="1QG1QGUIgNOGkm4THpmc-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-45" value="Pelanggan" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1QG1QGUIgNOGkm4THpmc-46" value="Data_Transaksi" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PD8pyI2LtgPukJvuHbv3-5" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Diagram Rinci 2.0 Stok Barang&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="1760" width="357.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PD8pyI2LtgPukJvuHbv3-6" value="Pelanggan" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PD8pyI2LtgPukJvuHbv3-8" value="Kasir" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PD8pyI2LtgPukJvuHbv3-9" value="Pak Wanto" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PD8pyI2LtgPukJvuHbv3-10" value="2.1 Bertanya ketersediaan barang" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="1950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5eRXS6RTaTg1pbSWhqZ4-1" value="2.2 Cek Stok Barang" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pMLV23y17nnEaERJoMY6-1" value="2.2 Mengupdate Stok barang" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1980" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
