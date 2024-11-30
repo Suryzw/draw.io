@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.0">
   <diagram name="Page-1" id="AMS0fTUhrBLNYwUgedSh">
-    <mxGraphModel dx="2083" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1934" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,6 +198,18 @@
             <mxPoint x="910" y="740" as="sourcePoint" />
             <mxPoint x="752" y="690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I024iVJITX_uXWryC0hb-70" value="Aplikasi Akademik Kampus A" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="50" width="680" height="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="I024iVJITX_uXWryC0hb-71" value="Mahasiswa" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="210" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I024iVJITX_uXWryC0hb-74" value="Dosen" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="840" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I024iVJITX_uXWryC0hb-75" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="460" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
