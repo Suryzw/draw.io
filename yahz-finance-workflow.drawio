@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2328" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2486" dy="1614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1090,7 +1090,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-1" parent="K-GX6TH5RegS5Mm5zPKE-29" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;fetch bot status&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="290" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="270" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-2" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-29" source="K-GX6TH5RegS5Mm5zPKE-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Lpv7oFh0UG3mOA_QTdwQ-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1309,9 +1309,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-26" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-1" source="Lpv7oFh0UG3mOA_QTdwQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Lpv7oFh0UG3mOA_QTdwQ-21">
-          <mxGeometry relative="1" x="0.653" as="geometry">
+          <mxGeometry relative="1" x="0.654" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="620" />
+              <mxPoint x="400" y="600" />
               <mxPoint x="400" y="1427.5" />
             </Array>
           </mxGeometry>
