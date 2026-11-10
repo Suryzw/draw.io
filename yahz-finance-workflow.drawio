@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1765" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1989" dy="1291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1044,6 +1044,11 @@
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-64" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-29" source="Lpv7oFh0UG3mOA_QTdwQ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="Lpv7oFh0UG3mOA_QTdwQ-63" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-83" connectable="0" parent="Lpv7oFh0UG3mOA_QTdwQ-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.4041" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-56" parent="K-GX6TH5RegS5Mm5zPKE-29" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="is chat session empty?" vertex="1">
           <mxGeometry height="80" width="80" x="980" y="106" as="geometry" />
         </mxCell>
@@ -1088,19 +1093,19 @@
           <mxGeometry height="60" width="130" x="45" y="140" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-12" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-1" source="QHAq7wiqDBu9IEhbj8aq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Lpv7oFh0UG3mOA_QTdwQ-7">
-          <mxGeometry relative="1" x="0.1912" as="geometry">
+          <mxGeometry relative="1" x="0.191" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="446" />
-              <mxPoint x="420" y="1247.5" />
+              <mxPoint x="420" y="1340" />
             </Array>
             <mxPoint x="450" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-26" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-1" source="Lpv7oFh0UG3mOA_QTdwQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Lpv7oFh0UG3mOA_QTdwQ-21">
-          <mxGeometry relative="1" x="0.7166" as="geometry">
+          <mxGeometry relative="1" x="0.7137" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="536" />
-              <mxPoint x="400" y="1335" />
+              <mxPoint x="400" y="1427.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1110,21 +1115,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-7" parent="K-GX6TH5RegS5Mm5zPKE-50" style="whiteSpace=wrap;html=1;" value="return list of chat session" vertex="1">
-          <mxGeometry height="60" width="120" x="430" y="17.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="430" y="110" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-22" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-50" source="Lpv7oFh0UG3mOA_QTdwQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Lpv7oFh0UG3mOA_QTdwQ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-19" parent="K-GX6TH5RegS5Mm5zPKE-50" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;save bot status&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="130" x="230" y="30" as="geometry" />
+          <mxGeometry height="60" width="130" x="230" y="122.5" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-21" parent="K-GX6TH5RegS5Mm5zPKE-50" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;return bot status&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="130" x="426" y="105" as="geometry" />
+          <mxGeometry height="60" width="130" x="426" y="197.5" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-41" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-1" source="Lpv7oFh0UG3mOA_QTdwQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Lpv7oFh0UG3mOA_QTdwQ-42">
-          <mxGeometry relative="1" x="0.0006" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="1247.5" />
+              <mxPoint x="590" y="1340" />
               <mxPoint x="590" y="446" />
             </Array>
             <mxPoint x="620.0000000000002" y="460" as="targetPoint" />
