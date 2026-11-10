@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1385" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -763,16 +763,16 @@
           <mxGeometry height="60" width="120" x="1110" y="190" as="geometry" />
         </mxCell>
         <mxCell id="AGpdA-VBsICf7Dnpo_ht-11" edge="1" parent="I3q0vG2bUpi85xTQRRyV-2" source="AGpdA-VBsICf7Dnpo_ht-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" x="0.0035" as="geometry">
+          <mxGeometry relative="1" x="-0.0252" as="geometry">
             <Array as="points">
               <mxPoint x="1316" y="20" />
               <mxPoint x="160" y="20" />
             </Array>
-            <mxPoint x="160" y="520" as="targetPoint" />
+            <mxPoint x="160" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AGpdA-VBsICf7Dnpo_ht-13" connectable="0" parent="AGpdA-VBsICf7Dnpo_ht-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Yes" vertex="1">
-          <mxGeometry relative="1" x="-0.9763" as="geometry">
+          <mxGeometry relative="1" x="-0.9771" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1066,7 +1066,7 @@
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-81" connectable="0" parent="Lpv7oFh0UG3mOA_QTdwQ-79" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="No" vertex="1">
           <mxGeometry relative="1" x="-0.6945" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-70" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-114" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-29" source="Lpv7oFh0UG3mOA_QTdwQ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;jumpStyle=arc;" target="Lpv7oFh0UG3mOA_QTdwQ-54">
@@ -1164,6 +1164,9 @@
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-14" parent="K-GX6TH5RegS5Mm5zPKE-89" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;send bot status to database&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="130" x="45" y="140" as="geometry" />
         </mxCell>
+        <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-119" parent="K-GX6TH5RegS5Mm5zPKE-89" style="whiteSpace=wrap;html=1;" value="user can&#39;t send a message" vertex="1">
+          <mxGeometry height="60" width="120" x="1630" y="60" as="geometry" />
+        </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-12" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-1" source="QHAq7wiqDBu9IEhbj8aq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Lpv7oFh0UG3mOA_QTdwQ-7">
           <mxGeometry relative="1" x="0.191" as="geometry">
             <Array as="points">
@@ -1236,6 +1239,11 @@
               <mxPoint x="590" y="360" />
             </Array>
             <mxPoint x="570.0000000000002" y="368.9010989010985" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-118" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-1" source="Lpv7oFh0UG3mOA_QTdwQ-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Lpv7oFh0UG3mOA_QTdwQ-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1710.0000000000005" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K-GX6TH5RegS5Mm5zPKE-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Chatbot&lt;/b&gt;" vertex="1">
