@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1478" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1765" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -959,7 +959,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K-GX6TH5RegS5Mm5zPKE-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" value="Using Web" vertex="1">
-          <mxGeometry height="1570" width="1890" x="30" y="4350" as="geometry" />
+          <mxGeometry height="1600" width="1890" x="30" y="4350" as="geometry" />
         </mxCell>
         <mxCell id="K-GX6TH5RegS5Mm5zPKE-5" parent="K-GX6TH5RegS5Mm5zPKE-1" style="swimlane;html=1;startSize=20;horizontal=0;" value="User" vertex="1">
           <mxGeometry height="300" width="1870" x="20" as="geometry">
@@ -970,7 +970,7 @@
           <mxGeometry height="60" width="120" x="630" y="40" as="geometry" />
         </mxCell>
         <mxCell id="K-GX6TH5RegS5Mm5zPKE-29" parent="K-GX6TH5RegS5Mm5zPKE-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=20;" value="Web" vertex="1">
-          <mxGeometry height="490" width="1870" x="20" y="300" as="geometry" />
+          <mxGeometry height="520" width="1870" x="20" y="300" as="geometry" />
         </mxCell>
         <mxCell id="K-GX6TH5RegS5Mm5zPKE-37" connectable="0" parent="K-GX6TH5RegS5Mm5zPKE-29" style="group" value="" vertex="1">
           <mxGeometry height="60" width="60" x="80" y="200" as="geometry" />
@@ -1011,11 +1011,27 @@
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-49" parent="K-GX6TH5RegS5Mm5zPKE-29" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;display bot status&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="630" y="300" as="geometry" />
         </mxCell>
+        <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-77" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-29" source="Lpv7oFh0UG3mOA_QTdwQ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Lpv7oFh0UG3mOA_QTdwQ-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-80" connectable="0" parent="Lpv7oFh0UG3mOA_QTdwQ-77" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.947" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-79" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-29" source="Lpv7oFh0UG3mOA_QTdwQ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Lpv7oFh0UG3mOA_QTdwQ-78" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-81" connectable="0" parent="Lpv7oFh0UG3mOA_QTdwQ-79" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.6945" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-72" parent="K-GX6TH5RegS5Mm5zPKE-29" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="is bot online?" vertex="1">
           <mxGeometry height="80" width="80" x="790" y="290" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-54" parent="K-GX6TH5RegS5Mm5zPKE-29" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="is the user sending a message from a previous chat?" vertex="1">
-          <mxGeometry height="100" width="110" x="905" y="-280" as="geometry" />
+          <mxGeometry height="100" width="110" x="965" y="-280" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-61" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-29" source="Lpv7oFh0UG3mOA_QTdwQ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="Lpv7oFh0UG3mOA_QTdwQ-60" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1029,22 +1045,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-56" parent="K-GX6TH5RegS5Mm5zPKE-29" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="is chat session empty?" vertex="1">
-          <mxGeometry height="80" width="80" x="920" y="106" as="geometry" />
+          <mxGeometry height="80" width="80" x="980" y="106" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-69" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-29" source="Lpv7oFh0UG3mOA_QTdwQ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="Lpv7oFh0UG3mOA_QTdwQ-62" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-60" parent="K-GX6TH5RegS5Mm5zPKE-29" style="whiteSpace=wrap;html=1;" value="create new chat session" vertex="1">
-          <mxGeometry height="60" width="120" x="1050" y="116" as="geometry" />
+          <mxGeometry height="60" width="120" x="1110" y="116" as="geometry" />
         </mxCell>
-        <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-62" parent="K-GX6TH5RegS5Mm5zPKE-29" style="whiteSpace=wrap;html=1;" value="forward a message to" vertex="1">
-          <mxGeometry height="60" width="120" x="1211" y="116" as="geometry" />
+        <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-62" parent="K-GX6TH5RegS5Mm5zPKE-29" style="whiteSpace=wrap;html=1;" value="forward a message to LLM" vertex="1">
+          <mxGeometry height="60" width="120" x="1271" y="116" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-68" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-29" source="Lpv7oFh0UG3mOA_QTdwQ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Lpv7oFh0UG3mOA_QTdwQ-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-63" parent="K-GX6TH5RegS5Mm5zPKE-29" style="whiteSpace=wrap;html=1;" value="use previous chat session" vertex="1">
-          <mxGeometry height="60" width="120" x="900" y="220" as="geometry" />
+          <mxGeometry height="60" width="120" x="960" y="220" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-58" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-29" source="Lpv7oFh0UG3mOA_QTdwQ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Lpv7oFh0UG3mOA_QTdwQ-56">
           <mxGeometry relative="1" as="geometry" />
@@ -1062,31 +1078,34 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-78" parent="K-GX6TH5RegS5Mm5zPKE-29" style="whiteSpace=wrap;html=1;" value="user can&#39;t send a message" vertex="1">
+          <mxGeometry height="60" width="120" x="910" y="380" as="geometry" />
+        </mxCell>
         <mxCell id="K-GX6TH5RegS5Mm5zPKE-89" parent="K-GX6TH5RegS5Mm5zPKE-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=20;" value="LLM" vertex="1">
-          <mxGeometry height="380" width="1870" x="20" y="790" as="geometry" />
+          <mxGeometry height="380" width="1870" x="20" y="820" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-14" parent="K-GX6TH5RegS5Mm5zPKE-89" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;send bot status to database&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="130" x="45" y="140" as="geometry" />
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-12" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-1" source="QHAq7wiqDBu9IEhbj8aq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Lpv7oFh0UG3mOA_QTdwQ-7">
-          <mxGeometry relative="1" x="0.1908" as="geometry">
+          <mxGeometry relative="1" x="0.1912" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="446" />
-              <mxPoint x="420" y="1217.5" />
+              <mxPoint x="420" y="1247.5" />
             </Array>
             <mxPoint x="450" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-26" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-1" source="Lpv7oFh0UG3mOA_QTdwQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Lpv7oFh0UG3mOA_QTdwQ-21">
-          <mxGeometry relative="1" x="0.7159" as="geometry">
+          <mxGeometry relative="1" x="0.7166" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="536" />
-              <mxPoint x="400" y="1305" />
+              <mxPoint x="400" y="1335" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K-GX6TH5RegS5Mm5zPKE-50" parent="K-GX6TH5RegS5Mm5zPKE-1" style="swimlane;html=1;startSize=20;horizontal=0;" value="Database" vertex="1">
-          <mxGeometry height="400" width="1870" x="20" y="1170" as="geometry">
+          <mxGeometry height="400" width="1870" x="20" y="1200" as="geometry">
             <mxRectangle height="30" width="1137.5" x="20" y="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1102,10 +1121,10 @@
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-21" parent="K-GX6TH5RegS5Mm5zPKE-50" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;return bot status&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="130" x="426" y="105" as="geometry" />
         </mxCell>
-        <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-41" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-1" source="Lpv7oFh0UG3mOA_QTdwQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Lpv7oFh0UG3mOA_QTdwQ-42">
-          <mxGeometry relative="1" x="-0.0346" as="geometry">
+        <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-41" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-1" source="Lpv7oFh0UG3mOA_QTdwQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Lpv7oFh0UG3mOA_QTdwQ-42">
+          <mxGeometry relative="1" x="0.0006" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="1217.5" />
+              <mxPoint x="590" y="1247.5" />
               <mxPoint x="590" y="446" />
             </Array>
             <mxPoint x="620.0000000000002" y="460" as="targetPoint" />
@@ -1117,6 +1136,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-74" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-1" source="Lpv7oFh0UG3mOA_QTdwQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Lpv7oFh0UG3mOA_QTdwQ-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lpv7oFh0UG3mOA_QTdwQ-82" edge="1" parent="K-GX6TH5RegS5Mm5zPKE-1" source="Lpv7oFh0UG3mOA_QTdwQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Lpv7oFh0UG3mOA_QTdwQ-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K-GX6TH5RegS5Mm5zPKE-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Chatbot&lt;/b&gt;" vertex="1">
